@@ -131,11 +131,11 @@ typedef enum {
 #endif
 
     // Generic signals namings
-    LED1        = PA_5,
-    LED2        = PA_5,
-    LED3        = PA_5,
-    LED4        = PA_5,
-    LED_RED     = LED1,
+    LED1        = PB_15,
+//    LED2        = PB_15,
+//    LED3        = PB_15,
+//    LED4        = PB_15,
+//    LED_RED     = LED1,
 //    USER_BUTTON = PC_13,
     // Standardized button names
 //    BUTTON1 = USER_BUTTON,
